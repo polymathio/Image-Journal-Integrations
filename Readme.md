@@ -24,3 +24,5 @@ Competition in the PHP hosting market is significantly higher than the other two
 
 Laravel is a very popular web framework among programmers and in the instance that you never want to work with us again or we break protocol and all ride the same flight, which happens to crash, you should have no problem finding a competent Laravel developer who can make edits to the code.
 
+## Estimates:
+We estimate this will take us about 70 hours of work
